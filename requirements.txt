@@ -1,0 +1,11 @@
+flask
+torch
+torchvision
+torchaudio
+nltk
+numpy
+gunicorn
+jinja2
+itsdangerous
+click
+Werkzeug
